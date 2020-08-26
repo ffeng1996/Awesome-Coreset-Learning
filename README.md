@@ -46,9 +46,19 @@ Mirzasoleiman B, Bilmes J, Leskovec J. **Coresets for Data-efficient Training of
 **Introduction to Coresets**, Videos from the Machine Learning Summer School 2014 at CMU [[Link]](http://people.csail.mit.edu/dannyf/#research)
 **Course:CPSC522/Bayesian Coresets**, Wiki page from UCB [[Link]](https://wiki.ubc.ca/Course:CPSC522/Bayesian_Coresets)
 
-## Taxonomy
+## Papers by taxonomy
 Coming soon...
+
+## Projects
+Coming soon...
+
 
 ## Others
 This list only included some papers after 2010. The papers before 2010 can be viewed on: Prof. Dan Feldman's homepage [[Link]](http://people.csail.mit.edu/dannyf/#research) & Prof. Sariel Har-Peled's homepage [[Link]](https://sarielhp.org/p/).
 
+# Contact & Feedback
+If you have any suggestions (missing papers, new papers, key researchers or typos), feel free to pull a request.
+
+
+# Licenses
+Awesome-Coreset-Learning is available under Apache Licenses 2.0.
