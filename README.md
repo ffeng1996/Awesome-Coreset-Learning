@@ -44,6 +44,7 @@ Mirzasoleiman B, Bilmes J, Leskovec J. **Coresets for Data-efficient Training of
 
 ## Tutorials
 **Introduction to Coresets**, Videos from the Machine Learning Summer School 2014 at CMU [[Link]](http://people.csail.mit.edu/dannyf/#research)
+
 **Course:CPSC522/Bayesian Coresets**, Wiki page from UCB [[Link]](https://wiki.ubc.ca/Course:CPSC522/Bayesian_Coresets)
 
 ## Papers by taxonomy
