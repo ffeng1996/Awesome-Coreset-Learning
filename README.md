@@ -57,9 +57,9 @@ Coming soon...
 ## Others
 This list only included some papers after 2010. The papers before 2010 can be viewed on: Prof. Dan Feldman's homepage [[Link]](http://people.csail.mit.edu/dannyf/#research) & Prof. Sariel Har-Peled's homepage [[Link]](https://sarielhp.org/p/).
 
-# Contact & Feedback
+## Contact & Feedback
 If you have any suggestions (missing papers, new papers, key researchers or typos), feel free to pull a request.
 
 
-# Licenses
+## Licenses
 Awesome-Coreset-Learning is available under Apache Licenses 2.0.
